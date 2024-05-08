@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Immutable My Profile",
+    "description": "My IMX Profile",
+    "image": "https://ipfs.euc.li/ipfs/QmWGtvjLpK1Wt74i2RWRWYW1phTRwr8UdFQdWwvwAjxHYM/763.png",
+    "external_link": "https://ipfs.euc.li/ipfs/QmWGtvjLpK1Wt74i2RWRWYW1phTRwr8UdFQdWwvwAjxHYM/763.png" 
 }

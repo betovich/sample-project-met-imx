@@ -1,25 +1,25 @@
 {
     "id": 2,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token2.webp",
+    "image": "https://ipfs.euc.li/ipfs/QmWGtvjLpK1Wt74i2RWRWYW1phTRwr8UdFQdWwvwAjxHYM/763.png",
     "token_id": "2",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT #2",
-    "description": "This NFT is my second Immutable zkEVM NFT",
+    "name": "My IMX Profile Project #2",
+    "description": "My IMX Profile Project",
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "Hair",
+        "value": "Long"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
+        "trait_type": "Style",
+        "value": "Cool"
       },
       {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
+        "trait_type": "Type",
+        "value": "QR"
       }
     ]
   }
